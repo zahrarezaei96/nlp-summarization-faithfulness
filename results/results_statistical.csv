@@ -1,0 +1,7 @@
+Comparison,Dataset,p-value,Significant
+BART vs PEGASUS,CNN/DM,0.0,Yes (p<0.05)
+BART vs Flan-T5,CNN/DM,0.0,Yes (p<0.05)
+PEGASUS vs Flan-T5,CNN/DM,0.5158,No
+BART vs PEGASUS,XSum,0.0,Yes (p<0.05)
+BART vs Flan-T5,XSum,0.0,Yes (p<0.05)
+PEGASUS vs Flan-T5,XSum,0.5315,No
